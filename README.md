@@ -12,4 +12,4 @@ Awesome Magento
 * [Local Xml](https://github.com/Aproducktion/Magento-local.xml-Template) - A great Start for your next Magento Theme's local.xml file.
 
 ## Sample Data Mirrors
-* [Sample Data Compressed](https://github.com/Vinai/compressed-magento-sample-data) - A highly compressed version of the magento 1.9 sample data and a script to create it. 19MB insted 317MB!
+* [Sample Data Compressed](https://github.com/Vinai/compressed-magento-sample-data) - A highly compressed version of the magento 1.9 sample data and a script to create it. 19MB instead 317MB!
