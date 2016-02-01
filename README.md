@@ -15,4 +15,4 @@ Awesome Magento
 * [Sample Data Compressed](https://github.com/Vinai/compressed-magento-sample-data) - A highly compressed version of the magento 1.9 sample data and a script to create it. 19MB instead 317MB!
 
 ## Composer
-* [Composer Parallel](https://github.com/hirak/prestissimo) - Composer parallel install plugin.
+* [Composer Parallel](https://github.com/hirak/prestissimo) - Composer parallel install plugin. Benchmark Example: 288s -> 26s
