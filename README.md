@@ -8,6 +8,7 @@ Awesome Magento
 * [Ajax Cart](https://github.com/hws47a/VF_AjaxCart) - Ajax Cart without any php code based on VF_EasyAjax module.
 * [Custom Design Fallback](https://github.com/fbrnc/Aoe_DesignFallback) - Configure your custom design fallback strategy using this Magento module.
 * [Add External JS/CSS](http://inchoo.net/magento/how-to-add-an-external-javascriptcss-file-to-magento/) - How to add an external javascript/css file.
+* [iBanners](http://fishpig.co.uk/magento/extensions/ibanners/) - This module allows you to create multiple banner slideshows to be placed around your Magento store. By default, the module will add a banner slideshow to your homepage, however you can easily create more banner groups and add them any where you like!
 
 ## Essentials
 * [Local Xml](https://github.com/Aproducktion/Magento-local.xml-Template) - A great Start for your next Magento Theme's local.xml file.
