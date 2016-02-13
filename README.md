@@ -19,3 +19,6 @@ Awesome Magento
 ## Composer
 * [Cotya Composer](https://github.com/Cotya/magento-composer-installer) - Composer installer for Magento modules.
 * [Composer Parallel](https://github.com/hirak/prestissimo) - Composer parallel install plugin. Benchmark Example: 288s -> 26s
+
+## Docker
+* [Dockerized Magento](https://github.com/andreaskoch/dockerized-magento) - A dockerized Magento Community Edition 1.9.x
