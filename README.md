@@ -22,3 +22,4 @@ Awesome Magento
 
 ## Docker
 * [Dockerized Magento](https://github.com/andreaskoch/dockerized-magento) - A dockerized Magento Community Edition 1.9.x
+* [Docker Machine NFS](https://github.com/adlogix/docker-machine-nfs) - Activates NFS for an existing boot2docker box created through Docker Machine.
