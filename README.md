@@ -3,7 +3,7 @@
 > A curated list of awesome bookmarks, packages, tutorials, videos and other cool resources from the Magento ecosystem.
 
 ## Articles
-* [Editing Magento Translate.csv](http://blog.belvg.com/editing-magento-translate-csv-file.html) - Editing Magento Translate.csv File.
+* [Theme translate.csv](http://blog.belvg.com/editing-magento-translate-csv-file.html) - Editing Magento Translate.csv File.
 
 ## Magento Extensions
 * [Easy Ajax](https://github.com/hws47a/VF_EasyAjax) - It allows frontend developer to send ajax requests and return a custom information from the server without a php developer help (without any php code).
