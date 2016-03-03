@@ -28,3 +28,4 @@
 * [Docker Machine NFS](https://github.com/adlogix/docker-machine-nfs) - Activates NFS for an existing boot2docker box created through Docker Machine.
 * [Dinghy](https://github.com/codekitchen/dinghy) - Docker on OS X with batteries included, aimed at making a more pleasant local development experience. Runs on top of docker-machine. Faster volume sharing using NFS. Easy access to running containers using built-in DNS and HTTP proxy.
 * [Dockerized Magento2!](https://github.com/mageinferno/magento2-docker-compose) - Development environment using Mage Inferno Magento 2 Docker Images.
+* [Using Dnsmasq](https://passingcuriosity.com/2013/dnsmasq-dev-osx/) - Using Dnsmasq for local development on OS X.
