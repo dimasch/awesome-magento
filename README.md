@@ -4,6 +4,7 @@
 
 ## Articles
 * [Theme translate.csv](http://blog.belvg.com/editing-magento-translate-csv-file.html) - Editing Magento Translate.csv File.
+* [Introducing The Magento Layout](https://www.smashingmagazine.com/2012/11/introducing-magento-layout/) - In this tutorial, we introduce the Magento layout by creating a simple module that will add some custom HTML content.
 
 ## Magento Extensions
 * [Easy Ajax](https://github.com/hws47a/VF_EasyAjax) - It allows frontend developer to send ajax requests and return a custom information from the server without a php developer help (without any php code).
