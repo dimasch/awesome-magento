@@ -33,6 +33,6 @@
 ## Magento2
 * [Gulp Integration](https://github.com/poddubny/magento2-gulp) - Compiles Less with Gulp.
 * [Magento 2 Frontools](https://github.com/SnowdogApps/magento2-frontools) - Set of front-end tools for Magento 2, based on Gulp.js 
-* [Dockerized Magento2!](https://github.com/mageinferno/magento2-docker-compose) - Development environment using Mage Inferno Magento 2 Docker Images.
+* [Dockerized](https://github.com/mageinferno/magento2-docker-compose) - Development environment using Mage Inferno Magento 2 Docker Images.
 
 
