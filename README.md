@@ -28,7 +28,7 @@
 * [Docker Machine NFS](https://github.com/adlogix/docker-machine-nfs) - Activates NFS for an existing boot2docker box created through Docker Machine.
 * [Dinghy](https://github.com/codekitchen/dinghy) - Docker on OS X with batteries included, aimed at making a more pleasant local development experience. Runs on top of docker-machine. Faster volume sharing using NFS. Easy access to running containers using built-in DNS and HTTP proxy.
 * [Dnsmasq](https://passingcuriosity.com/2013/dnsmasq-dev-osx/) - Using Dnsmasq for local development on OS X.
-
+* [Magento 2 Docker](https://hub.docker.com/r/rafaelcgstz/magento2/) - Focused to development process, pretty faster on the Linux.
 
 ## Magento2
 * [Gulp Integration](https://github.com/poddubny/magento2-gulp) - Compiles Less with Gulp.
