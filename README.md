@@ -24,6 +24,7 @@
 * [Composer Parallel](https://github.com/hirak/prestissimo) - Composer parallel install plugin. Benchmark Example: 288s -> 26s
 
 ## Docker
+- [mage2.docker](https://github.com/aliuosio/mage2.docker) - Nginx(Pagespeed), MariaDB, PHP , Redis, Elastic Search Configurator with Magento 2 installer (updated: 19 April 2020)
 * [Dockerized Magento](https://github.com/andreaskoch/dockerized-magento) - A dockerized Magento Community Edition 1.9.x
 * [Docker Machine NFS](https://github.com/adlogix/docker-machine-nfs) - Activates NFS for an existing boot2docker box created through Docker Machine.
 * [Dinghy](https://github.com/codekitchen/dinghy) - Docker on OS X with batteries included, aimed at making a more pleasant local development experience. Runs on top of docker-machine. Faster volume sharing using NFS. Easy access to running containers using built-in DNS and HTTP proxy.
